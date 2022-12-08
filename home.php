@@ -223,7 +223,7 @@
           <div class="col-lg-5">
             <div class="section_title">
               <div>Hotel</div>
-              <h1>Discover Marimar Hotel</h1>
+              <h1>Discover Transylvania Hotel</h1>
             </div>
           </div>
         </div>
@@ -301,8 +301,7 @@
                   <p>Maecenas sollicitudin tincidunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus sollicitudin tinci dunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scele risque at. Quisque eget.</p>
                 </div>
                 <div class="testimonial_author text-center">
-                  <div class="testimonial_author_image"><img src="images/author_1.jpg" alt=""></div>
-                  <div class="testimonial_author_name"><a href="#">Maria Smith,</a><span> Client</span></div>
+                  
                 </div>
               </div>
 
@@ -312,8 +311,7 @@
                   <p>Maecenas sollicitudin tincidunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus sollicitudin tinci dunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scele risque at. Quisque eget.</p>
                 </div>
                 <div class="testimonial_author text-center">
-                  <div class="testimonial_author_image"><img src="images/author_1.jpg" alt=""></div>
-                  <div class="testimonial_author_name"><a href="#">Maria Smith,</a><span> Client</span></div>
+                  
                 </div>
               </div>
 
@@ -323,8 +321,7 @@
                   <p>Maecenas sollicitudin tincidunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus sollicitudin tinci dunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scele risque at. Quisque eget.</p>
                 </div>
                 <div class="testimonial_author text-center">
-                  <div class="testimonial_author_image"><img src="images/author_1.jpg" alt=""></div>
-                  <div class="testimonial_author_name"><a href="#">Maria Smith,</a><span> Client</span></div>
+                
                 </div>
               </div>
 
