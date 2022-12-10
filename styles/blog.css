@@ -680,7 +680,7 @@ section
 }
 .menu_nav ul li a:hover
 {
-	color: #ff9000;
+	color: #1C1C1C;
 }
 .menu_button
 {
@@ -814,7 +814,7 @@ section
 {
 	width: 280px;
 	height: 65px;
-	background: #ff9000;
+	background: #1C1C1C;
 	margin-left: 9px;
 	border: none;
 	outline: none;
