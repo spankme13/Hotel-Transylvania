@@ -11,7 +11,13 @@
       <div class="row intro_row">
         <div class="col-xl-8 col-lg-10 offset-xl-2 offset-lg-1">
           <div class="intro_text text-center">
-            <p>Maecenas sollicitudin tincidunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus sollicitudin tinci dunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scele risque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperdiet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus.</p>
+            <p>The newest five-star hotel in the Philippines, Hotel Transylvania, presents a particularly eclectic feeling of Philippine beauty.
+
+We are in the center of it all, perched on one of the most well-known sois (or "streets" in the Philippines), and we provide our guests with an authentic Filipino cultural experience.
+
+You should be aware that we don't do ordinary; rather, we do fun, elegant, and comfy. Raising your expectations can help you find your Philippine oasis, complete with accommodations and amenities bursting with delightful details that will make you smile and enable you to fully unwind while on vacation.
+
+If you choose to leave the convenience of your hotel, there are many other on-site services to aid in your relaxation and rejuvenation. Our 92-square-meter saltwater pool is available for your use. Work out like in our having to cut gym and enjoy a delicious meal in one of our luxurious restaurants. And if you feel like traveling back in time, we welcome you to discover the beauty of the old Philippines through old photographs that are on show in the art gallery in our lobby and were obtained from local small sellers across the nation.</p>
           </div>
         </div>
       </div>
@@ -117,24 +123,53 @@
           <div class="rooms_right_content">
             <div class="section_title">
               <div>Rooms</div>
-              <h1>Luxury Double Suite</h1>
+              <h1>Luxury Penthouse Suite</h1>
             </div>
             <div class="rooms_text">
-              <p>Maecenas sollicitudin tincidunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus sollicitudin tinci dunt maximus. Morbi tempus malesuada erat sed pellentesque.</p>
+              <p>A luxury penthouse is a unit or an apartment on the highest floor of a hotel, condominium, or apartment building. They’re different from other apartments because of the unique amenities they offer.
+
+
+Luxury Penthouses are more secure than other regular hotel rooms, as they are accessed through a private elevator. These types of suites are expensive, but it’s all worth it. The amenities you’ll enjoy from a penthouse are worth every dime.
+
+Some of the amenities you’ll find in a luxury penthouse are;</p>
             </div>
             <div class="rooms_list">
               <ul>
                 <li class="d-flex flex-row align-items-center justify-content-start">
                   <img src="images/check.png" alt="">
-                  <span>Morbi tempus malesuada erat sed</span>
+                  <span>Swimming Pools</span>
                 </li>
                 <li class="d-flex flex-row align-items-center justify-content-start">
                   <img src="images/check.png" alt="">
-                  <span>Tempus malesuada erat sed</span>
+                  <span>A private elevator / entrance</span>
                 </li>
                 <li class="d-flex flex-row align-items-center justify-content-start">
                   <img src="images/check.png" alt="">
-                  <span>Pellentesque vel neque finibus elit</span>
+                  <span>Terrace</span>
+                </li>
+                <li class="d-flex flex-row align-items-center justify-content-start">
+                  <img src="images/check.png" alt="">
+                  <span>Higher / vaulted ceilings</span>
+                </li>
+                <li class="d-flex flex-row align-items-center justify-content-start">
+                  <img src="images/check.png" alt="">
+                  <span>Office space</span>
+                </li>
+                <li class="d-flex flex-row align-items-center justify-content-start">
+                  <img src="images/check.png" alt="">
+                  <span>Jacuzzi</span>
+                </li>
+                <li class="d-flex flex-row align-items-center justify-content-start">
+                  <img src="images/check.png" alt="">
+                  <span>Several owner suites</span>
+                </li>
+                <li class="d-flex flex-row align-items-center justify-content-start">
+                  <img src="images/check.png" alt="">
+                  <span>Over-sized windows</span>
+                </li>
+                <li class="d-flex flex-row align-items-center justify-content-start">
+                  <img src="images/check.png" alt="">
+                  <span>Fireplace</span>
                 </li>
               </ul>
             </div>
@@ -158,26 +193,36 @@
           <div class="rooms_left_content">
             <div class="section_title">
               <div>Rooms</div>
-              <h1>Luxury Single Room</h1>
+              <h1>Super Deluxe Room</h1>
             </div>
             <div class="rooms_text">
-              <p>Maecenas sollicitudin tincidunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus sollicitudin tinci dunt maximus. Morbi tempus malesuada erat sed pellentesque.</p>
+              <p>For luxury lovers, a super deluxe hotel room might just be the ideal room option for you. Interestingly these rooms are available in almost any standard hotel  whether 3, 4, or five-star hotel. A super deluxe room is but an upgrade to the standard deluxe room.
+
+
+Some of the main amenities here include: </p>
             </div>
             <div class="rooms_list">
               <ul>
                 <li class="d-flex flex-row align-items-center justify-content-start">
                   <img src="images/check.png" alt="">
-                  <span>Morbi tempus malesuada erat sed</span>
+                  <span>Queen-sized bed</span>
                 </li>
                 <li class="d-flex flex-row align-items-center justify-content-start">
                   <img src="images/check.png" alt="">
-                  <span>Tempus malesuada erat sed</span>
+                  <span>Spectacular view</span>
                 </li>
                 <li class="d-flex flex-row align-items-center justify-content-start">
                   <img src="images/check.png" alt="">
-                  <span>Pellentesque vel neque finibus elit</span>
+                  <span>Special attention from hotel staff</span>
+                </li>
+                <li class="d-flex flex-row align-items-center justify-content-start">
+                  <img src="images/check.png" alt="">
+                  <span>All other amenities from the normal deluxe</span>
                 </li>
               </ul>
+              <div class="rooms_text">
+              <p>It’s a perfect hotel room for couples on a holiday, or even new weds on their honeymoon </p>
+            </div>
             </div>
             <div class="rooms_price">$89/<span>Night</span></div>
            
@@ -230,7 +275,7 @@
         <div class="row discover_row">
           <div class="col-lg-5">
             <div class="discover_highlight">
-              <p>Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur.</p>
+              <p>The hotel offers visitors a variety of dining alternatives with its restaurants and bars, each of which specializes in a distinct cuisine. Workers and professionals, meetings, weddings, and other social gatherings can all take place in elegant function facilities. The Skybar, Indoor Pool, Outdoor Pool, and Sports Area and Spa Zone.</p>
             </div>
             <!-- <div class="button discover_button"><a href="#">discover</a></div> -->
           </div>
@@ -278,56 +323,4 @@
 
   <!-- Testimonials -->
 
-  <div class="testimonials">
-    <div class="container">
-      <div class="row">
-        <div class="col">
-          <div class="section_title text-center">
-            <div>Clients</div>
-            <h1>Testimonials</h1>
-          </div>
-        </div>
-      </div>
-      <div class="row testimonials_row">
-        <div class="col">
-          
-          <!-- Testimonials Slider -->
-          <div class="testimonials_slider_container">
-            <div class="owl-carousel owl-theme testimonials_slider">
-
-              <!-- Slide -->
-              <div>
-                <div class="testimonial_text text-center">
-                  <p>Maecenas sollicitudin tincidunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus sollicitudin tinci dunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scele risque at. Quisque eget.</p>
-                </div>
-                <div class="testimonial_author text-center">
-                  
-                </div>
-              </div>
-
-              <!-- Slide -->
-              <div>
-                <div class="testimonial_text text-center">
-                  <p>Maecenas sollicitudin tincidunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus sollicitudin tinci dunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scele risque at. Quisque eget.</p>
-                </div>
-                <div class="testimonial_author text-center">
-                  
-                </div>
-              </div>
-
-              <!-- Slide -->
-              <div>
-                <div class="testimonial_text text-center">
-                  <p>Maecenas sollicitudin tincidunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus sollicitudin tinci dunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scele risque at. Quisque eget.</p>
-                </div>
-                <div class="testimonial_author text-center">
-                
-                </div>
-              </div>
-
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+  

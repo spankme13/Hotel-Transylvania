@@ -831,7 +831,7 @@ section
 {
 	width: 280px;
 	height: 65px;
-	background: #ff9000;
+	background: #E6E6E6;
 	margin-left: 9px;
 	border: none;
 	outline: none;
@@ -1043,7 +1043,7 @@ section
 	margin-top: 33px;
 	font-size: 36px;
 	font-weight: 700;
-	color: #ff9000;
+	color: #E6E6E6;
 }
 .rooms_price span
 {
@@ -1118,7 +1118,7 @@ section
 }
 .rooms_slider .owl-dots .owl-dot.active span
 {
-	background: #ff9000;
+	background: #E6E6E6;
 }
 
 /*********************************

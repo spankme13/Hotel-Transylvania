@@ -45,13 +45,13 @@
       <!-- Contact Map Content -->
       <div class="contact_map_content">
         <div class="d-flex flex-column align-items-center justify-content-center">
-          <img class="contact_info_logo_1" src="images/logo_4.png" alt="">
-          <img class="contact_info_logo_2" src="images/logo_2.png" alt="">
+          <img class="contact_info_Hotel1" src="images/Hotel4.png" alt="">
+          <img class="contact_info_Hotel2" src="images/Hotel2.png" alt="">
           <div class="contact_info_list">
             <ul class="text-center">
-              <li>132 Liberty Streetelit, Plano, Texas</li>
-              <li>hello@home.com</li>
-              <li>214-805-4428</li>
+              <li>423 Malate, Manila</li>
+              <li>Transylvania_Hotel.com</li>
+              <li>(+63) 999128425</li>
             </ul>
           </div>
         </div>

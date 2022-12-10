@@ -56,7 +56,7 @@ if (isset($_SESSION['activity'])){
     <div class="header_content d-flex flex-column align-items-center justify-content-lg-end justify-content-center">
       
       <!-- Logo -->
-      <div class="logo"><a href="#"><img class="logo_1" src="<?php echo WEB_ROOT;?>images/logo.png" alt=""><img class="logo_2" src="<?php echo WEB_ROOT;?>images/logo_2.png" alt=""><img class="logo_3" src="<?php echo WEB_ROOT;?>images/logo_3.png" alt=""></a></div>
+      <div class="logo"><a href="#"><img class="logo_1" src="<?php echo WEB_ROOT;?>images/Hotel.png" alt=""><img class="logo_2" src="<?php echo WEB_ROOT;?>images/Hotel2.png" alt=""><img class="logo_3" src="<?php echo WEB_ROOT;?>images/Hotel3.png" alt=""></a></div>
 
       <!-- Main Nav -->
       <nav class="main_nav">
@@ -118,7 +118,7 @@ if (isset($_SESSION['activity'])){
 
   <div class="logo_overlay">
     <div class="logo_overlay_content d-flex flex-column align-items-center justify-content-center">
-      <div class="logo"><a href="#"><img src="<?php echo WEB_ROOT;?>images/logo_3.png" alt=""></a></div>
+      <div class="logo"><a href="#"><img src="<?php echo WEB_ROOT;?>images/Hotel3.png" alt=""></a></div>
     </div>
   </div>
 
@@ -170,7 +170,8 @@ if (isset($_SESSION['activity'])){
     <div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="<?php echo WEB_ROOT;?>images/home.jpg" data-speed="0.8"></div>
     <div class="home_container d-flex flex-column align-items-center justify-content-center">
       <div class="home_title"><h1>Book Your Stay</h1></div>
-      <div class="home_text text-center">Fusce erat dui, venenatis et erat in, vulputate dignissim lacus. Donec vitae tempus dolor, sit amet elementum lorem. Ut cursus tempor turpis.</div>
+      <div class="home_text text-center">Whisper your dreams to us</div>
+<div class="home_text text-center"> A clean bed for a tired soul, it's time to uncover the possibilities, discover a new side of yourself, and refresh in our brand-new hotel</div>
       <div class="button home_button"><a href="#">book now</a></div>
     </div>
   </div>
@@ -242,7 +243,7 @@ if (isset($_SESSION['activity'])){
       <div class="row">
         <div class="col">
           <div class="footer_logo text-center">
-            <a href="#"><img src="images/logo.png" alt=""></a>
+            <a href="#"><img src="images/Hotel1.png" alt=""></a>
           </div>
           <div class="footer_content">
             <div class="row">
@@ -250,7 +251,7 @@ if (isset($_SESSION['activity'])){
                 <div class="footer_info d-flex flex-column align-items-lg-end align-items-center justify-content-start">
                   <div class="text-center">
                     <div>Phone:</div>
-                    <div>+546 990221 123</div>
+                    <div>(+63) 999128425</div>
                   </div>
                 </div>
               </div>
@@ -258,7 +259,7 @@ if (isset($_SESSION['activity'])){
                 <div class="footer_info d-flex flex-column align-items-center justify-content-start">
                   <div class="text-center">
                     <div>Address:</div>
-                    <div>Main Str, no 23, New York</div>
+                    <div>423 Malate Street, Manila</div>
                   </div>
                 </div>
               </div>
@@ -266,7 +267,7 @@ if (isset($_SESSION['activity'])){
                 <div class="footer_info d-flex flex-column align-items-lg-start align-items-center justify-content-start">
                   <div class="text-center">
                     <div>Mail:</div>
-                    <div>hotel@contact.com</div>
+                    <div>Transylvania_Hotel@gmail.com</div>
                   </div>
                 </div>
               </div>
