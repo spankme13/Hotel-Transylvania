@@ -1144,7 +1144,7 @@ section
 	font-size: 18px;
 	font-weight: 700;
 	font-style: italic;
-	color: #4a4f59;
+	color: #010101;
 	line-height: 2;
 }
 .discover_button
@@ -1186,7 +1186,7 @@ section
 }
 .discover_overlay > h1 a:hover
 {
-	color: #ff9000;
+	color: #ffffff;
 }
 
 /*********************************
@@ -1282,7 +1282,7 @@ section
 	display: block;
 	position: relative;
 	padding-top: 59px;
-	border-top: solid 2px #ff9000;
+	border-top: solid 2px #4A4A4A;
 }
 .footer_content
 {
