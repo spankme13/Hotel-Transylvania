@@ -167,10 +167,10 @@ if (isset($_SESSION['activity'])){
   <!-- Home -->
 
   <div class="home">
-    <div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="<?php echo WEB_ROOT;?>images/home.jpg" data-speed="0.8"></div>
+    <div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="<?php echo WEB_ROOT;?>images/home.png" data-speed="0.8"></div>
     <div class="home_container d-flex flex-column align-items-center justify-content-center">
-      <div class="home_title"><h1>Book Your Stay</h1></div>
-      <div class="home_text text-center">Whisper your dreams to us</div>
+      <div class="home_title"><h1>Whisper your dreams to us</h1></div>
+      
 <div class="home_text text-center"> A clean bed for a tired soul, it's time to uncover the possibilities, discover a new side of yourself, and refresh in our brand-new hotel</div>
       <div class="button home_button"><a href="#">book now</a></div>
     </div>

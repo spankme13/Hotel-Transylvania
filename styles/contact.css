@@ -279,7 +279,7 @@ section
 {
 	width: 186px;
 	height: 65px;
-	background: #ff9000;
+	background: #6D6D6D;
 	text-align: center;
 	border: solid 2px #ff9000;
 	-webkit-transition: all 200ms ease;
@@ -306,7 +306,7 @@ section
 }
 .button:hover a
 {
-	color: #ff9000;
+	color: #6D6D6D;
 }
 .section_title h1
 {
