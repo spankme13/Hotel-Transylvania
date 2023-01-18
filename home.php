@@ -3,7 +3,7 @@
       <div class="row">
         <div class="col">
           <div class="section_title text-center">
-            <div>Welcome</div>
+            
             <h1>Amazing Hotel in front of the Sea</h1>
           </div>
         </div>
